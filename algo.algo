@@ -1,0 +1,45 @@
+ALGORITHM PERF_RAW_FRACTION
+VAR
+ islam : STRING := islam;
+ islam : STRING;
+  
+BEGIN
+ islam.length
+ function countWords(str) {
+  const arr = str.split(' ');
+
+  return arr.filter(word => word !== '').length;
+}
+
+ console.log(countWords(' One two three '));
+
+ var suum = 0;
+ while (sum<5)
+ {sum++;
+ if (sum===4)
+ break;
+
+    console.log(sum)
+
+}   
+ var suuum = 0;
+ while (suuum<5)
+ {suuum++;
+ if (suuum===4)
+ break;
+
+    console.log(suuum)
+
+}   
+ var suuuum = 0;
+ while ( suuuum<5)
+ {suuuum++;
+ if (suuuum===4)
+ break;
+
+    console.log(suuuum)
+
+}   
+
+
+END
